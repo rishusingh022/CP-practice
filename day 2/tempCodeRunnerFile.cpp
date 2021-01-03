@@ -1,0 +1,1 @@
+nt sum=accumulate(s[i],s[i+m],0);
